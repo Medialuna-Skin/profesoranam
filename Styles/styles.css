@@ -29,7 +29,7 @@ html {
  /*Estilo de los titulos y textos*/
   
 h1 {
-  font-family: 'Playwrite HU', sans-serif;!important;
+  font-family: 'Playwrite HU', sans-serif;
   font-size: 4rem;
   color: #0e4675;
   text-align: center;
@@ -39,7 +39,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;!important;
+  font-family: 'Roboto', sans-serif; 
   font-size: 2rem;
   color: #f9545b ;
   text-align: left;
@@ -47,7 +47,7 @@ h2 {
 } 
 
 h3 {
-  font-family: 'Roboto', sans-serif;!important;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
   color: #0e4675;
   text-align: left;
@@ -57,7 +57,7 @@ h3 {
 /*nombres testimonios*/
 
 h4 {
-  font-family: 'Roboto', sans-serif;!important;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
   color: #0e4675;
   margin: 0 0 5px 0;
